@@ -62,43 +62,52 @@
 * IP authorization.
 
 # Token Economics
-* Total: `50,000,000,000`
-* Symbol: `CPT` (ChatPuppy Token)
-* Allocation:
+* Total issue: `10,000 NFTs`(Chat Puppy NFT)
+* Symbol: `CPT` (ChatPuppy)
+* 8 Traits:
+  * Eye
+  * Ear
+  * Nose
+  * Mouth
+  * Tail
+  * Caps
+  * Cloths & Tie
+  * Pattern
 
-||Percentage|Amount|Vesting|Memo|
-|:-|-:|-:|:-|:-|
-|Technical Team|15%|7,500,000,000 CPT|20% at launch, 80% vesting in 2 years after launch, every 24 hours release||
-|Donate|20%|10,000,000,000 CPT|12 months after launch, every 24 hours release, transaction amount on eth/bsc/polygon should more than 50U before end of Jan.2022|Every `1,000,000 CPTs`, exchange rate increases `20%`, total cap `$519,173`. Start from `0.0002 USDT/CPT`, averagely `0.000519174 USDT`|
-|Advisor|5%|2,500,000,000 CPT|30% release at launch, 70% vesting in 1.5 year after launch||
-|Marketing|5%|2,500,000,000 CPT|30% release at launch, 70% vesting in 1 year after launch||
-|Incentive|30%|15,000,000,000 CPT|No vesting|Airdrop to the accounts who have enough interaction with partners|
-|Liquidity|10%|5,000,000,000 CPT|||
-|Reserve|15%|7,500,000,000 CPT|||
+* Variations: Each Traits has 5 variations.
+* Rarity
 
-* Token usage:
-  * Auction and buy NFT
-  * Buy Mystery Box
-  * Mint new NFT
-  * Governance
+|Type|Rarity|
+|:-|-:|
+|PunkPuppy|0.3%|
+|MuskPuppy|0.9%|
+|AlienPuppy|3.6%|
+|DogePuppy|27%|
+|ChatPuppy|68.2%|
+
+* Mint price
+
+|Quantity|Price(BNB)|
+|:-|-:|
+|0-2000|0.10|
+|2001-4000|0.15|
+|4001-6000|0.20|
+|6001-8000|0.25|
+|8001-10000|0.30|
+
 
 # Roadmap
-### 1- Website and online donation
+### 1- Website and NFT marketplace
 * Domain: `chatpuppy.com` or `puppy.chat` (registered)
-* Landing page
-* Donation page & smart contracts
-* Timeline: Feb.2022
+* Landing page, March.5,2022
+* NFT Designing, March.2,2022
+* NFT Marketplace, March.5,2022
+* Timeline: March.5,2022
 
-### 2- Beta Dapp
+### 2- Chat Dapp(beta)
 * Group chat and normal chat throught gunDB.
 * Timeline: Mar.2022
 
-### 3- NFT Marketplace
-* Timeline: Mar.2022
-
-### 4- Onboard DEX
-* Timeline: Apr.2022
-
-### 5- Advanced messaging
+### 4- Advanced messaging
 * Intergrating with xxDK.
 * Timeline: May.2022
