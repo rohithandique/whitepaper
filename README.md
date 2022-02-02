@@ -99,14 +99,17 @@
 # Roadmap
 ### 1- Website and NFT marketplace
 * Domain: `chatpuppy.com` or `puppy.chat` (registered)
-* Landing page, March.5,2022
 * NFT Designing, March.2,2022
+* Landing page, March.5,2022
 * NFT Marketplace, March.5,2022
 * Timeline: March.5,2022
 
-### 2- Chat Dapp(beta)
+### 2- Onboard Opensea/Treasureland
+* Timeline: March.15,2022
+
+### 3- Chat Dapp(beta)
 * Group chat and normal chat throught gunDB.
-* Timeline: Mar.2022
+* Timeline: Mar.20,2022
 
 ### 4- Advanced messaging
 * Intergrating with xxDK.
