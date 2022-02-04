@@ -17,8 +17,11 @@
 
 
 # UX Description
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gywsevi6jtj31e10u042r.jpg)
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gywsgf8j5sj31e00u0tc7.jpg)
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gz1klcgdcmj30m80dc3zg.jpg)
+
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gz1klo36ftj30m80cxt9v.jpg)
+
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gz1l1r6qvcj31e00u0aej.jpg)
 
 ## How to start
 * Anyone just signed in the `Metamask`/`WalletConnet` or any `mobile wallet`, can chat with other wallet account on same/different Chain freely or join an existed chat room.
@@ -40,6 +43,8 @@
 |Multiple NFTs manager|no|yes|
 |Change NFT avatar|no|yes|
 |Trade NFTs on marketplace|no|yes|
+|Change Background|no|yes|
+|Customize chat box|no|yes|
 |Open new chat room|no|L3+ *|
 |Using non-official NFT avatars|no|L10+|
 |Design and mint own NFTs|no|L15+|
