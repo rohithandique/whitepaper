@@ -58,16 +58,16 @@
   * L15: unlimited members
 
 # Business Models
-* Selling NFT, Total issuance: `500000 PUPPY`，official mystery box price `USD 9.9`.
-* Marketplace listing fee `5%`
+* Selling NFT
+* Marketplace listing fee `5%`, all fee is burned.
 * Integrating as a chat plugin into other Web3 projects, such as Defi, SocialFi, and GameFi. 
 * Intergrating NFT identity into other Web3 projects.
 * Intergrating DEFI into the Chat Dapp.
 * Crypto currency redpacket will be available inside one Dapp. 
 * IP authorization.
 
-# Token Economics
-* Total issue: `10,000 NFTs`(Chat Puppy NFT)
+# NFT Token Economics
+* First issue: `10,000 NFTs`(Chat Puppy NFT)
 * Symbol: `CPT` (ChatPuppy)
 * 8 Traits:
   * Eye
