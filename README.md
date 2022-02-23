@@ -1,4 +1,7 @@
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gywpghxp9gj31gi0u0wmw.jpg)
+[Click to oepn homepage for more information](https://chat-puppy-web-app.vercel.app/)
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1gzn95tr114j21lz0u00y3.jpg)
+
 # Brief
 `ChatPuppy` - *A super secured NFT-based wallet-to-wallet instant messanger dapp for web3*
 
@@ -25,9 +28,7 @@
 
 ## How to start
 * Anyone just signed in the `Metamask`/`WalletConnet` or any `mobile wallet`, can chat with other wallet account on same/different Chain freely or join an existed chat room.
-* Advanced functions will be open to the accounts with `PUPPY NFT`. `PUPPY NFT` can be bought on marketplace or opened from a mystery box. 
-* Mystery box and NFT can be sent and traded as a standard `ERC721` on chain.
-* Each NFT has only one puppy avatar (like `CryptoKitties`).
+* Advanced functions will be open to the accounts with avatar NFTs.
 
 ## Normal account vs. NFT holder
 ||Normal Users(Non-NFT)|NFT Users|
@@ -57,65 +58,3 @@
   * L10: 2000 members
   * L15: unlimited members
 
-# Business Models
-* Selling NFT
-* Marketplace listing fee `5%`, all fee is burned.
-* Integrating as a chat plugin into other Web3 projects, such as Defi, SocialFi, and GameFi. 
-* Intergrating NFT identity into other Web3 projects.
-* Intergrating DEFI into the Chat Dapp.
-* Crypto currency redpacket will be available inside one Dapp. 
-* IP authorization.
-
-# NFT Token Economics
-* First issue: `10,000 NFTs`(Chat Puppy NFT)
-* Symbol: `CPT` (ChatPuppy)
-* 8 Traits:
-  * Eye
-  * Ear
-  * Nose
-  * Mouth
-  * Tail
-  * Caps
-  * Cloths & Tie
-  * Pattern
-
-* Variations: Each Traits has 5 variations.
-* Rarity
-
-|Type|Rarity|
-|:-|-:|
-|PunkPuppy|0.3%|
-|MuskPuppy|0.9%|
-|AlienPuppy|3.6%|
-|DogePuppy|27%|
-|ChatPuppy|68.2%|
-
-* Mint price
-
-|Quantity|Price(BNB)|
-|:-|-:|
-|0-2000|0.10|
-|2001-4000|0.15|
-|4001-6000|0.20|
-|6001-8000|0.25|
-|8001-10000|0.30|
-
-
-# Roadmap
-### 1- Website and NFT marketplace
-* Domain: `chatpuppy.com` or `puppy.chat` (registered)
-* NFT Designing, March.2,2022
-* Landing page, March.5,2022
-* NFT Marketplace, March.5,2022
-* Timeline: March.5,2022
-
-### 2- Onboard Opensea/Treasureland
-* Timeline: March.15,2022
-
-### 3- Chat Dapp(beta)
-* Group chat and normal chat throught gunDB.
-* Timeline: Mar.20,2022
-
-### 4- Advanced messaging
-* Intergrating with xxDK.
-* Timeline: May.2022
